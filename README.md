@@ -41,6 +41,7 @@ I’ve got loads of experience with all things software development and love wor
 ## Most used anguages 🧑‍💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact&theme=dark)
 
+
 ## Skills ⚡
 **Programming:** 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
