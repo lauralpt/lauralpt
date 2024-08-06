@@ -27,9 +27,6 @@ I’ve got loads of experience with all things software development and love wor
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauralpt&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=false)
 -->
-## Most used anguages 🧑‍💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact)
-
 ## Education 🎓
 - **Bachelor's Degree in IT**   [UTEC](https://utec.edu.uy/es/)
 
@@ -40,6 +37,9 @@ I’ve got loads of experience with all things software development and love wor
     - [Agrid](https://agrid.com.uy)
     - [Embragues y Frenos Las Piedras](https://embraguelaspiedras.com.uy/)
     - [Talentos Remotos](https://talentosremotos.uy/)
+
+## Most used anguages 🧑‍💻
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact)
 
 ## Skills ⚡
 **Programming:** 
