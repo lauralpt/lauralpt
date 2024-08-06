@@ -21,7 +21,12 @@ I´m [Laura Rodríguez Canova](https://www.linkedin.com/in/laura-rodriguez-canov
 
 ## About Me 💬
 I’ve got loads of experience with all things software development and love working in agile teams (Scrum is my jam). From building and maintaining systems to integrating and managing data, I’ve done it all. I’m all about continuous improvement and quality, and I thrive in multidisciplinary teams where we can all grow and learn together.
-
+<!--
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauralpt&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=false)
+-->
 ## Education 🎓
 - **Bachelor's Degree in IT**   [UTEC](https://utec.edu.uy/es/)
 
