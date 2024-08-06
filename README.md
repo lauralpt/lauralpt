@@ -16,62 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+I´m [Laura Rodríguez Canova](https://www.linkedin.com/in/laura-rodriguez-canova/),  a passionate developer and designer.
 
 ## About Me 💬
-I'm a professional with extensive experience in all phases of the software development lifecycle and in following agile methodologies (Scrum). I define myself as a person who loves challenges. I have experience in system development and maintenance, system integration, as well as data import and export. Throughout my career, I have proven to be an effective member of a multidisciplinary teams and have always ensured that continuous improvement and quality assurance are priorities for all processes.
+I’ve got loads of experience with all things software development and love working in agile teams (Scrum is my jam). From building and maintaining systems to integrating and managing data, I’ve done it all. I’m all about continuous improvement and quality, and I thrive in multidisciplinary teams where we can all grow and learn together.
 
 ## Education 🎓
-- **Development of Applications and Testing**
-  - Universidad Tecnológica (UTEC)
-  - 2017 - 2018
+- **Bachelor's Degree in IT**   [UTEC](https://utec.edu.uy/es/)
 
-- **Advanced Technical Degree in IT**
-  - Universidad Tecnológica (UTEC)
-  - 2017 - 2019
-
-- **Bachelor's Degree in IT**
-  - Universidad Tecnológica (UTEC)
-  - 2017 - 2020
-    
-## Additional Education 🛠
-  - **Agile Methodologies for Organizations**
-    - UDELAR Training Institute
-    - 2022
-  - **React**
-    - Alura LATAM - ONE
-    - 2023
-  - **Become a Salesforce Developer**
-    - Altimetrik
-    - 2023
-
-  - **Salesforce Associate Certification**
-    - 2023
-
-## Professional Experience 💼
-- **Salesforce Trainee at Altimetrik**
-  - 2024 - Present
-  - Gaining hands-on experience and training in Salesforce development and administration.
-    
-- **IT Analyst at SeCIU (Central Information Service of UDELAR)**
-  - 2021 - Present
-  - Responsible for tasks related to the importation of CVUy (https://cvuy.uy/) forms into SIGEVA(https://sigeva.udelar.edu.uy/eva/udelar/home) 
-  - Integrated both systems, allowing users to import data from CVUy and automatically complete the information required by SIGEVA.
-  - Implemented and maintained corrective and evolutionary system updates to support these imports.
-
-- **Web Design Instructor at Aula Uruguay**
-  - 2021
-  - Planned and delivered web design classes, including the preparation of syllabi and materials.
-    
-- **Collaborator at Talentos Remotos.uy**
-  - 2019 - Present
-  - Designed and implemented the community website [Talentos Remotos](https://talentosremotos.uy/).
-  - Conducted workshops and mentoring sessions as part of volunteer work within the community.
-    
-- **Freelance Graphic-Web Designer**
-  - 2012 - Present
-  - Designed and implemented various custom websites, including:
+## Featured Projects 📂
+- [Dental-e](https://github.com/lauralptAlma/Alma_Tech)
+- Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA](https://sigeva.udelar.edu.uy/eva/udelar/home) 
+- Designed and implemented
     - [Agrid](https://agrid.com.uy)
-    - [Embrague Las Piedras](https://embraguelaspiedras.com.uy/)
+    - [Embragues y Frenos Las Piedras](https://embraguelaspiedras.com.uy/)
     - [Talentos Remotos](https://talentosremotos.uy/)
 
 ## Skills ⚡
@@ -128,13 +87,7 @@ I'm a professional with extensive experience in all phases of the software devel
 
 - **Languages:** Spanish (native), English (B2)
 
-## Featured Projects 📂
-**[Dental-e](https://github.com/lauralptAlma/Alma_Tech)**
-  - Description: Example project for managing transactions with JPA.
-  - Technologies: Python, MongoDB, JavaScript, HTML, CSS
-
 ## Contact 📫
-- **LinkedIn:** (https://www.linkedin.com/in/laura-rodriguez-canova/)
 - **Email:** lauralpt@gmail.com
 
 ---
