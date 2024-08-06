@@ -32,7 +32,7 @@ I’ve got loads of experience with all things software development and love wor
 
 ## Featured Projects 📂
 - [Dental-e](https://github.com/lauralptAlma/Alma_Tech)
-- Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA](https://sigeva.udelar.edu.uy/eva/udelar/home) 
+- Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA-UDELAR](https://sigeva.udelar.edu.uy/eva/udelar/home) 
 - Designed and implemented
     - [Agrid](https://agrid.com.uy)
     - [Embragues y Frenos Las Piedras](https://embraguelaspiedras.com.uy/)
