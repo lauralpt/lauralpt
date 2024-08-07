@@ -32,15 +32,17 @@ I’ve got loads of experience with all things software development and love wor
 
 ## Featured Projects 📂
 - [Dental-e](https://github.com/lauralptAlma/Alma_Tech)
-- Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA-UDELAR](https://sigeva.udelar.edu.uy/eva/udelar/home) 
+- Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA-UDELAR](https://sigeva.udelar.edu.uy/eva/udelar/home)
 - Designed and implemented
     - [Agrid](https://agrid.com.uy)
     - [Embragues y Frenos Las Piedras](https://embraguelaspiedras.com.uy/)
     - [Talentos Remotos](https://talentosremotos.uy/)
 
-## Most used anguages 🧑‍💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact&theme=dark&langs_count=7)
+## Most used languages 🧑‍💻
 
+|Github Projects |
+|:------------------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralpt&layout=compact&theme=transparent&hide_title=true&hide_border=true&count=7)  |
 
 ## Skills ⚡
 **Programming:** 
