@@ -33,10 +33,6 @@ I’ve got loads of experience with all things software development and love wor
 ## Featured Projects 📂
 - [Dental-e](https://github.com/lauralptAlma/Alma_Tech)
 - Importation of [CVUy](https://cvuy.uy/) data into [SIGEVA-UDELAR](https://sigeva.udelar.edu.uy/eva/udelar/home)
-- Designed and implemented
-    - [Agrid](https://agrid.com.uy)
-    - [Embragues y Frenos Las Piedras](https://embraguelaspiedras.com.uy/)
-    - [Talentos Remotos](https://talentosremotos.uy/)
 
 ## Most used languages 🧑‍💻
 
@@ -57,7 +53,6 @@ I’ve got loads of experience with all things software development and love wor
 ![Apex](https://img.shields.io/badge/Apex-%230092E0.svg?style=for-the-badge&logo=apex&logoColor=white) 
 ![LWC](https://img.shields.io/badge/LWC-%230092E0.svg?style=for-the-badge&logo=salesforce&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -74,28 +69,10 @@ I’ve got loads of experience with all things software development and love wor
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-- **Servers:** 
-![Wildfly](https://img.shields.io/badge/Wildfly-%230081CB.svg?style=for-the-badge&logo=wildfly&logoColor=white) 
-![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white) 
-![Glassfish](https://img.shields.io/badge/Glassfish-%23000.svg?style=for-the-badge&logo=glassfish&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
 - **Design:** 
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-- **Software/Tools:** 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 
-![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 - **Operating Systems:** 
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) 
